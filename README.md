@@ -1,8 +1,7 @@
 # Welcome to my resume repository!
 
 Each branch is for specific industries, but only the master branch is guaranteed
-to be updated. Please take a look, and reach out if you're interested. I'm
-currently looking for a full-time job.
+to be updated. Please take a look, and reach out if you're interested.
 
 ## Word Diff
 This section is basically a note to self. In order to diff the `.docx` files
