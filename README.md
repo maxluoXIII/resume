@@ -12,4 +12,4 @@ pandoc -f docx -t plain -o - %1
 ```
 and do `git config diff.word.textconv <scriptname>`.
 
-At some point in the future, I may transition to LaTeX.
+The most recent version of this resume is the [typst](https://typst.app) version
