@@ -62,7 +62,7 @@ Software Engineering Intern #h(1fr) Chicago, IL \
   company's proprietary 3D mesh, video, and audio codec including seek, caching,
   and adaptive bitrate selection using the C++ Qt Framework
 
-*Eagle Seven* #h(1fr) May 2019 -- Aug. 2019 \
+*#link("https://www.eagleseven.com/")[Eagle Seven]* #h(1fr) May 2019 -- Aug. 2019 \
 Software Development Intern #h(1fr) Chicago, IL \
 - Wrote software to calculate network performance metrics of high-frequency
   trade engines
