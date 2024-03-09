@@ -80,9 +80,12 @@ Creator #h(1fr) #link("https://github.com/maxluoXIII/server-manager")[GitHub] \
 
 *#link("https://github.com/Mottokrosh/Sheet")[Sheet]* #h(1fr) Sep. 2021 -- Jan. 2022 \
 Contributor #h(1fr) #link("https://github.com/Mottokrosh/Sheet")[GitHub] \
-- Contributed authentication fixes to an open-source Node application that I
-  personally use to keep Pathfinder role-playing game character sheets on the
-  cloud
+- Identified the cause for authentication and database issues that caused an
+  outage of an open-source Node application.
+- Communicated with the maintainer and developed a fix that was merged into
+  the project.
+- Reviewed pull requests made by other developers and helped them merge their
+  own fixes to the project.
 
 == Skills
 #chiline()
@@ -90,6 +93,6 @@ Contributor #h(1fr) #link("https://github.com/Mottokrosh/Sheet")[GitHub] \
 - *Proficient* in C/C++, Python
 - *Intermediate* knowledge of Rust, Java, HTML/CSS, Javascript (Angular), InfluxDB,
   Grafana, Unity, Unreal Engine, WebGL, Android app development, Discord app
-  development, Qt Framework, Chinese, Japanese
+  development, Qt Framework, Flutter, Chinese, Japanese
 - *Basic* skills with OCaml, x86 Assembly, Verilog
 
