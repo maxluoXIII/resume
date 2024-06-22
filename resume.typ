@@ -25,22 +25,6 @@
 | #link("https://github.com/maxluoXIII")[github.com/maxluoXIII]
 | #link("https://maxluoxiii.github.io")[maxluoxiii.github.io]
 
-== Education
-#chiline()
-
-#link("https://illinois.edu/")[*University of Illinois at Urbana-Champaign*] #h(1fr) Aug. 2017 -- May 2021 \
-Bachelor of Science, Computer Science + Master of Computer Science #h(1fr) Urbana-Champaign, IL \
-- Operating System Design; Distributed Systems; Communication Networks; Applied Parallel Programming
-- Computer Security I/II; Advanced Computer Security; Applied Cryptography; Operating System Security
-- Machine Learning; ML for Sys, Networks, & Security; Algorithms
-- Interactive Computer Graphics; UI Design; Top Down Video Game Design; Game Dev Process
-- Teaching Assistant for CS 225 (Data Structures) and CS 126 (Software Design Studio)
-  - Lead discussions and code reviews to foster educational dialogue on data
-    structures and best coding practices
-
-*Hinsdale Central High School* #h(1fr) Aug. 2013 -- May 2017 \
-Valedictorian #h(1fr) Hinsdale, IL \
-
 == Work Experience
 #chiline()
 
@@ -53,8 +37,8 @@ Backend Developer #h(1fr) Rochester, MN \
 - Migrated device driver testing scripts to an open-source Python framework,
   expanded test coverage, and improved logging/debugging capabilities to develop
   a cohesive testing tool for device driver developers
-- Collaborated with other teams to provide support for clients by providing
-  analyses and fixes
+- Collaborated with internal and external teams to provide support for clients
+  by providing analyses and fixes
 
 *#link("https://8i.com/")[8i]* #h(1fr) May 2020 -- Aug. 2020 \
 Software Engineering Intern #h(1fr) Chicago, IL \
@@ -66,17 +50,31 @@ Software Engineering Intern #h(1fr) Chicago, IL \
 Software Development Intern #h(1fr) Chicago, IL \
 - Wrote software to calculate network performance metrics of high-frequency
   trade engines
-- Improved the automation, comparison, and real-time tracking capabilities of
-  the performance testing framework through InfluxDB and Grafana to drive
-  future development
+- Built a real-time dashboard using InfluxDB and Grafana to improve the automation,
+  comparison, and real-time tracking capabilities of the performance testing framework
+
+== Education
+#chiline()
+
+#link("https://illinois.edu/")[*University of Illinois at Urbana-Champaign*] #h(1fr) Aug. 2017 -- May 2021 \
+Bachelor of Science, Computer Science + Master of Computer Science #h(1fr) Urbana-Champaign, IL \
+- Operating System Design; Distributed Systems; Communication Networks; Applied Parallel Programming
+- Computer Security I/II; Advanced Computer Security; Applied Cryptography; Operating System Security
+- Machine Learning; ML for Sys, Networks, & Security; Algorithms
+- Interactive Computer Graphics; UI Design; Top Down Video Game Design; Game Dev Process
+- Teaching Assistant for CS 225 (Data Structures) and CS 126 (Software Design Studio)
+  - Lead discussions and code reviews to foster educational dialogue on data
+    structures and best coding practices
+  - Provided continuous updates to the course website to provide students with up-to-date information
+  - Answered questions and debugged student solutions in office hours
 
 == Projects
 #chiline()
 
 *#link("https://github.com/maxluoXIII/server-manager")[server-manager]* #h(1fr) Mar. 2023 -- Aug. 2023 \
 Creator #h(1fr) #link("https://github.com/maxluoXIII/server-manager")[GitHub] \
-- Developed a Discord bot in Rust to allow members of a Discord server to manage
-  multiple Minecraft servers on a host computer
+- Developed a Discord bot in Rust utilizing their HTTPS/REST API to allow members
+  of a Discord server to manage multiple Minecraft servers on a host computer
 
 *#link("https://github.com/Mottokrosh/Sheet")[Sheet]* #h(1fr) Sep. 2021 -- Jan. 2022 \
 Contributor #h(1fr) #link("https://github.com/Mottokrosh/Sheet")[GitHub] \
