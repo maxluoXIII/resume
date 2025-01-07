@@ -71,7 +71,7 @@ Bachelor of Science, Computer Science + Master of Computer Science #h(1fr) Urban
 == Projects
 #chiline()
 
-*#link("https://github.com/maxluoXIII/server-manager")[server-manager]* #h(1fr) Mar. 2023 -- Aug. 2023 \
+*#link("https://github.com/maxluoXIII/server-manager")[server-manager]* #h(1fr) Mar. 2023 -- Present \
 Creator #h(1fr) #link("https://github.com/maxluoXIII/server-manager")[GitHub] \
 - Developed a Discord bot in Rust utilizing their HTTPS/REST API to allow members
   of a Discord server to manage multiple Minecraft servers on a host computer
